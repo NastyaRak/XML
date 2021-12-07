@@ -1,1 +1,9 @@
-
+<Bug report id="1">
+           <Title>The Sign up button is available when you enter an email with Cyrillic in your account name on the registration page</Title>
+           <Severity>Critical </Severity>
+           <Priority>high</Priority>
+           <STR>1. In the field Enter your email, enter name@mail.ru 2. Press the Sign up button</STR>
+           <Actual result>The Sign up button is available </Actual result>
+           <Expected result>The Sign up button is unavailable</Expected result>
+           <Environment>Redmi note 8 Pro, Android 11 RP1A.200720.011</Environment>
+</Bug report>
